@@ -1,0 +1,26 @@
+{
+  "type": "OreBlock",
+  "name": "baboxi",
+  "localizedName": "Baboxi",
+  "description": "An ore that creates A Other Pink Item when mined.",
+  "hardness": 3,
+  "resistance": 4,
+  "minPick": "diamond",
+  "mineTier": 3,
+  "itemDrop": "baboxi",
+  "itemDropChance": 2.5,
+  "emitLight": true,
+  "emitFlammability": true,
+  "flammableMultiplier": 0.5,
+  "explosiveness": 0.5,
+  "oreDefault": true,
+  "oreThreshold": 1,
+  "oreScale": 0.02,
+  "oreSize": 3,
+  "oreLevel": 8,
+  "result": "baboxi",
+  "resultCount": 3,
+  "hasShadow": true,
+  "playerMineable": true
+}
+

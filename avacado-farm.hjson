@@ -1,0 +1,20 @@
+{
+  "type": "OreBlock",
+  "name": "avacado-farm",
+  "localizedName": "Avacado Farm",
+  "description": "An ore that creates Pink items when mined.",
+  "hardness": 1,
+  "resistance": 4,
+  "mineTier": 1,
+  "itemDrop": "calcium",
+  "emitLight": true,
+  "emitFlammability": true,
+  "flammableMultiplier": 0.2,
+  "explosiveness": 0.2,
+  "oreDefault": true,
+  "variants": 3,
+  "oreThreshold": 1,
+  "oreScale": 0.02,
+  "hasShadow": true,
+  "playerMineable: true
+}
