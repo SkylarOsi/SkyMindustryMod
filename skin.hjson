@@ -1,0 +1,12 @@
+{
+name: Skin
+type: ore
+description: The most unethical and disgusting of what is needed for a body can only be gathered from fresh corpses dug up and skinned.
+hardness: 0.1
+cost: 0.4
+charge: 0
+alwaysUnlocked: true
+flammability: 0
+explosiveness: 0
+radioactivity: 0.1
+}

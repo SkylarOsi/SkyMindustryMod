@@ -1,0 +1,12 @@
+{
+name: A-Keratins
+type: ore
+description: Usinjg humane, ethical and safe means A-Keratin is gathered by shaving down Ram horns to be used to make Hair.
+hardness: 0.1
+cost: 0.4
+charge: 0
+alwaysUnlocked: true
+flammability: 2
+explosiveness: 0
+radioactivity: 0.1
+}

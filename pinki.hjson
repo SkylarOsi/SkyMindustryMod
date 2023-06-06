@@ -1,0 +1,12 @@
+{
+name: Pinki
+type: ore
+description: A pink ore beautiful and almost blindingly bright from radioactivity. Not very sturdy an ore and almost a liquid but not quite one, but where it lacks strength it is extremely pliable and moldable and when mixed with Lead becomes almost unseperatable while staying pliable and less radioactive. 
+hardness: 0.01
+cost: 5
+charge: 2
+alwaysUnlocked: true
+flammability: 1
+explosiveness: 1
+radioactivity: 9
+}

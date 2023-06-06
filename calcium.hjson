@@ -1,0 +1,12 @@
+{
+name: Calcium
+type: ore
+description: Collected from Mineral Fields 
+hardness: 0.1
+cost: 0.4
+charge: 0
+alwaysUnlocked: true
+flammability: 0
+explosiveness: 0
+radioactivity: 0.1
+}

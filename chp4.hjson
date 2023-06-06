@@ -1,0 +1,12 @@
+{
+name: CPH-4
+type: ore
+description: Organisms are high in CPH-4 so they are gathered by the thousands and taken well care of and unharmed to collect the CPH-4. 
+hardness: 0.1
+cost: 0.4
+charge: 0
+alwaysUnlocked: true
+flammability: 0
+explosiveness: 0
+radioactivity: 1
+}

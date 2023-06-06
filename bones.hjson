@@ -1,0 +1,12 @@
+{
+name: Bones
+type: ore
+description: Gathered by digging up bones which may be un-ethical to some or by combining calcium and marrow.
+hardness: 2
+cost: 1
+charge: 0
+alwaysUnlocked: true
+flammability: 0
+explosiveness: 0
+radioactivity: 0.1
+}

@@ -1,0 +1,12 @@
+{
+name: Baboxi
+type: ore
+description: A beautiful blue ore that is harder than diamond but very radioactive. However, when mixed with lead it becomes less radioactive and even harder for strong buildings.
+hardness: 12
+cost: 6
+charge: 0
+alwaysUnlocked: true
+flammability: 2
+explosiveness: 0
+radioactivity: 5
+}
