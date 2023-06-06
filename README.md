@@ -1,2 +1,0 @@
-# SkyMindustryMod
-It's optional. 
