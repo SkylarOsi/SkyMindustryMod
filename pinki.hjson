@@ -1,0 +1,6 @@
+type:ore
+name: Pinki
+description: Bright pink ore.
+color:3f7cec
+cost:20
+alwaysUnlocked:true
