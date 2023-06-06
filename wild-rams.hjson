@@ -1,0 +1,20 @@
+{
+  "type": "OreBlock",
+  "name": "wild-rams",
+  "localizedName": "Wild Rams",
+  "description": "An ore that creates Pink items when mined.",
+  "hardness": 3,
+  "resistance": 4,
+  "mineTier": 4,
+  "itemDrop": "protein",
+  "emitLight": true,
+  "emitFlammability": true,
+  "flammableMultiplier": 0.2,
+  "explosiveness": 0.2,
+  "oreDefault": true,
+  "variants": 3,
+  "oreThreshold": 1,
+  "oreScale": 0.02,
+  "hasShadow": true,
+  "playerMineable: true
+}

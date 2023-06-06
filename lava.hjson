@@ -1,0 +1,10 @@
+{
+	"type": "Floor",
+	"name": "Lava",
+	"variants": 1,
+	
+	"isLiquid": true,
+	"supportsOverlay": true,
+	"cacheLayer": "slag",
+
+}
